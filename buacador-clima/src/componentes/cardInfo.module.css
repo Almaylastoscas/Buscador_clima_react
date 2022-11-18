@@ -1,0 +1,27 @@
+.mainInfo {
+  background-color: aliceblue;
+  padding: 40px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.ciudad {
+  font-size: 32px;
+  text-align: center;
+  font-weight: bolder;
+}
+.pais {
+  font-size: 20px;
+  text-align: center;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.condition {
+  font-size: 24px;
+}
+.current {
+  font-size: 30px;
+  font-weight: bold;
+}
